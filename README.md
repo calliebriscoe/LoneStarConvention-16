@@ -1,9 +1,9 @@
-## LoneStarConvention April 2016
+# LoneStarConvention April 2016
 
 I decided to attend the LoneStar PHP convention in Dallas, TX in 2016. During the convention I learned a lot and while this is no where near everything I learned and as pretty as I would like it to be, this repository holds the compilation of work that I did and learned at the convention.  
 
 
-#Thursday Apr. 7 2016
+##Thursday Apr. 7 2016
 Today I attend two training classes. The first was Demystifying Object-Oriented Programming by Alena Holligan. She described objects and classes to a T. She also explain how you can have classes relate to one another including abstractions, parent/child relationships, traits, interfaces and much more. I specifically was introduced to traits and interfaces as an alternative way to share information between classes on the same hierarchical level rather than extending the class which is limited to one connection.
 Suggested http://www.php-fig.org/
 https://joind.in/talk/1a5fa
@@ -11,10 +11,10 @@ https://joind.in/talk/1a5fa
 The second was TDD with PhpSpec by Ciaran McNulty. He went in depth on the proper methodology to unit testing and how to change your coding to thinking about the behavior and function of the code before writing any code. He had us pair up and work thru this process of writing the tests to break the code before fixing the issue. This cause short iterations of writing tests, coding and refactoring. It really makes you think about how the code it going to function long before any major problems occur.
 https://joind.in/talk/6aled
 
-In the evening, I went to the Laravel DFW MeetUp and got to meet  Taylor Otwell. I also got to hear about custom forms with Laravel and Angular 1.x by Nathan Barrett. Nathan gave some good insight on how a front-end framework such as Angular can interact with the Laravel framework. Taylor got up and spoke about the his current and future projects as well as Q and A.
+In the evening, I went to the Laravel DFW MeetUp and got to meet  Taylor Otwell. I also got to hear about custom forms with Laravel and Angular 1.x by Nathan Barrett. Nathan gave some good insight on how a front-end framework such as Angular can interact with the Laravel framework. Taylor got up and spoke about the his current and future projects as well as Q&A.
 
 
-#Friday Apr. 8 2016
+##Friday Apr. 8 2016
 Today was the first day of the convention. Iwas blown by how many dedicated PHP Developers came to this PHP convention.
 
 The first talk that I went to Adventures of a Contract Developer by Tim Lytle. Talked about multiple types of contractors. Sells himself as a mercenary where he is the product, he specializes in his craft and does not hire out or resell and repurpose products because there is a potential for lost time and revenue. Don't undersell yourself because your rate is what your worth. Always over estimate your time so that you can cushion for foreseen errors and snags. When bidding tell the client what to you find as issues and how you would solve the problems. Explained the different type of clients that can occur in freelancing.
@@ -39,9 +39,9 @@ The final talk of the day was Hacking your way to better security by Colin O'Del
 Suggested http://www.heidisql.com/  
 https://joind.in/talk/17622
 
-The keynote speaker for The Origin of HyperCard in the Breakdown of the Bicycle for the Mind by Justin Falcone. THis was an interesting talk as is we were back in the past at the creation of the hypercard looking forward to the future of now. 
+The keynote speaker for The Origin of HyperCard in the Breakdown of the Bicycle for the Mind by Justin Falcone. THis was an interesting talk as is we were back in the past at the creation of the hypercard looking forward to the future of now.
 https://joind.in/talk/
 
-#Saturday Apr. 9 2016
+##Saturday Apr. 9 2016
 
 https://joind.in/talk/
